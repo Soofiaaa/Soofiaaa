@@ -6,7 +6,7 @@ My website is still in development but will but available soon! :dizzy:
 
 ## Fun fact :smiley:
 I love emoji more than anything in my life. <br/>
-I don't really why but... :snowflake: :snowman: :sparkles:
+I don't really know why but... :snowflake: :snowman: :sparkles:
 
 ## How to reach me 📫
 You can contant me via discord. <br/>
