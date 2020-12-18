@@ -1,6 +1,6 @@
 # Hello there 👋
 I am Sofia a 19 years old programmer. <br/>
-I am currently working on a lot of stuff to share whit you.
+I am currently working on a lot of stuff to share whit you. <br/>
 My website is still in development but will but available soon! 
 
 ## How to reach me 📫
