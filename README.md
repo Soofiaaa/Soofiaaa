@@ -9,7 +9,7 @@ I love emojis more than anything in my life. <br/>
 I don't really know why but... :snowflake: :snowman: :sparkles:
 
 ## How to reach me 📫
-You can contant me via discord. <br/>
+You can contact me via discord. <br/>
 My discord ➔ ~/sofia#6666
 
 ## My Github Stats &#x1f4c8;
