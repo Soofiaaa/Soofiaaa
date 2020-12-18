@@ -13,5 +13,5 @@ My discord ➔ ~/sofia#6666
 </a>
 
 <a href="https://github.com/Soofiaaa">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TSoofiaaa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Soofiaaa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
 </a>
