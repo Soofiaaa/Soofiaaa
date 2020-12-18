@@ -5,7 +5,7 @@ I am currently working on a lot of stuff to share with you. <br/>
 My website is still in development but will be available soon! :dizzy:
 
 ## Fun fact :smiley:
-I love emoji more than anything in my life. <br/>
+I love emojis more than anything in my life. <br/>
 I don't really know why but... :snowflake: :snowman: :sparkles:
 
 ## How to reach me 📫
