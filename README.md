@@ -1,4 +1,4 @@
-[![Header](https://github.com/Soofiaaa/Soofiaaa/blob/main/asset/Header.png "Header")](https://github.com/Soofiaaa)
+[![Header](https://github.com/Soofiaaa/Soofiaaa/blob/main/assset/Header.png "Header")](https://github.com/Soofiaaa)
 # Hello there 👋
 I am Sofia a 19 years old programmer. <br/>
 I am currently working on a lot of stuff to share whit you. <br/>
