@@ -1,8 +1,8 @@
 [![Header](https://github.com/Soofiaaa/Soofiaaa/blob/main/assset/Header.png "Header")](https://github.com/Soofiaaa)
 # Hello there 👋
 I am Sofia a 19 years old programmer. <br/>
-I am currently working on a lot of stuff to share whit you. <br/>
-My website is still in development but will but available soon! :dizzy:
+I am currently working on a lot of stuff to share with you. <br/>
+My website is still in development but will be available soon! :dizzy:
 
 ## Fun fact :smiley:
 I love emoji more than anything in my life. <br/>
