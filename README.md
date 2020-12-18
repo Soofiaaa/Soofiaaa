@@ -8,6 +8,9 @@ My website is still in development but will be available soon! :dizzy:
 I love emojis more than anything in my life. <br/>
 I don't really know why but... :snowflake: :snowman: :sparkles:
 
+## Technologies & Tools 🔧
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat&logoColor=white&color=2bbc8a)
+
 ## How to reach me 📫
 You can contact me via discord. <br/>
 My discord ➔ ~/sofia#6666
