@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hello there 👋
+I am Sofia. A 19 years old programmer. <br/>
+I am currently working on a lot of stuff to share whit you.
+My website is still in development but will but avaible soon! 
 
-<!--
-**Soofiaaa/Soofiaaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## How to reach me 📫
+You can contant me via discord.
+My discord ➔ ~/sofia#6666
 
-Here are some ideas to get you started:
+## My Github Stats &#x1f4c8;
+<a href="https://github.com/Soofiaaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Soofiaaa&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/Soofiaaa">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TSoofiaaa&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21">
+</a>
