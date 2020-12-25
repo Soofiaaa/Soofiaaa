@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assset/Welcome.gif" alt="Logo" width="600" height="300">
+  <img src="assset/Welcome.gif" alt="Logo" width="500" height="250">
  </p>
 # Hello there 👋
 I am Sofia a 19 years old programmer. <br/>
