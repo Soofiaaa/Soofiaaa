@@ -1,4 +1,6 @@
-<img src="assset/Welcome.gif" alt="Logo" width="300" height="150">
+<p align="center">
+  <img src="assset/Welcome.gif" alt="Logo" width="300" height="150">
+ </p>
 # Hello there 👋
 I am Sofia a 19 years old programmer. <br/>
 I am currently working on a lot of stuff to share with you. <br/>
