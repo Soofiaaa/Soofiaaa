@@ -22,7 +22,7 @@ I don't really know why but... :snowflake: :snowman: :sparkles:
 
 ## How to reach me 📫
 You can contact me via discord. <br/>
-My discord ➔ ~/sofia#6666
+My discord ➔ ~/sofia#4047
 
 ## My Github Stats &#x1f4c8;
 <a href="https://github.com/Soofiaaa">
